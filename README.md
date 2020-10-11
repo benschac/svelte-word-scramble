@@ -2,6 +2,9 @@
 
 Word scramble is a svelte component that will animate random characters and letters through a `name` prop, reveling it from right to left once the animation completes.
 
+
+![](https://share.getcloudapp.com/E0urnoz6)
+
 _Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)_
 
 ---
